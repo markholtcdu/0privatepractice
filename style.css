@@ -1,2 +1,3 @@
-article {width: 30%; border:2px;  border-style:solid;border-color:#CCCCCC;float:right;}
-footer {clear:both;}
+header {width:100%;margiborder:2px;  border-style:solid;border-color:#CCCCCC;float:right;clear:both;}
+article {width: 33%; margin-left:auto;margin-right:auto;border:2px;  border-style:solid;border-color:#CCCCCC;float:right;}
+footer {width:100%;margiborder:2px;  border-style:solid;border-color:#CCCCCC;float:right;clear:both;}
