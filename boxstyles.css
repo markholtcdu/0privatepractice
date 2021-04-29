@@ -2,7 +2,7 @@
   margin:0;
   font-size:2em;
 box-sizing:border-box}
-.box1 {background-color:#2D9D9D;
+#box1 {background-color:#2D9D9D;
  border:5px solid #000000;
  height:5em;
  padding:10px;
