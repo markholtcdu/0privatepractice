@@ -2,4 +2,5 @@ header {width:100%; margin-left:auto;margin-right:auto;border:2px;  border-style
 article {width: 33%; margin-left:auto;margin-right:auto;border:2px;  border-style:solid;border-color:#CCCCCC;float:left;}
 h1,h2 {text-align: center;}
 footer {width:100%;margiborder:2px;  border-style:solid;border-color:#CCCCCC;float:right;clear:both;}
-#wrapper{
+.box{width: 90%; border: 3px solid #222222; padding:8px; margin:8px; }
+
